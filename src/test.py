@@ -1,1 +1,1 @@
-print('This is a sample code')
+print('This is a test ode')
