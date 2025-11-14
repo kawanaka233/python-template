@@ -1,6 +1,7 @@
 # python-template
 
 Pythonプロジェクト用のテンプレートリポジトリ
+pull用に文章を追加
 
 ## ファイル構成
 
